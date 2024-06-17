@@ -1,6 +1,6 @@
 [submodule "dependencies/submodules/delta-studio"]
 	path = dependencies/submodules/delta-studio
-	url = https://github.com/ange-yaghi/delta-studio
+	url = git@github.com:ange-yaghi/delta-studio.git
 [submodule "dependencies/submodules/simple-2d-constraint-solver"]
 	path = dependencies/submodules/simple-2d-constraint-solver
 	url = https://github.com/ange-yaghi/simple-2d-constraint-solver
@@ -12,4 +12,4 @@
 	url = https://github.com/ange-yaghi/csv-io
 [submodule "dependencies/submodules/piranha"]
 	path = dependencies/submodules/piranha
-	url = https://github.com/ange-yaghi/piranha.git
+	url = git@github.com:ange-yaghi/piranha.git
